@@ -1,2 +1,2 @@
 # python_vector_code
-python code that computes simple vector functions without numpy or scipy
+a class that contains basic vector operations and comparisons
